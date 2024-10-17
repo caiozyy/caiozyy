@@ -26,16 +26,6 @@
 <!-- GithubStats -->
 ![Caiozyy GitHub stats](https://github-readme-stats.vercel.app/api?username=caiozyy&show_icons=true&theme=gotham)
 
-<!-- Portfolio -->
-## Portfolio:
-- [Blog App](https://github.com/caiozyy/Blog-App)
-<p>More in development...</p>
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://i.pinimg.com/originals/a6/ac/92/a6ac9244c02998a5dcce22c324d8d8a4.gif" alt="Imagem">
-</p>
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -55,3 +45,13 @@
     <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
+  
+<!-- Portfolio -->
+## Portfolio:
+- [Blog App](https://github.com/caiozyy/Blog-App)
+<p>More in development...</p>
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.pinimg.com/originals/a6/ac/92/a6ac9244c02998a5dcce22c324d8d8a4.gif" alt="Imagem">
+</p>
