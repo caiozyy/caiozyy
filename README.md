@@ -48,8 +48,7 @@
   
 <!-- Portfolio -->
 ## Portfolio:
-- [Blog App](https://github.com/caiozyy/Blog-App)
-<p>More in development...</p>
+<p>In development...</p>
 
 <!-- GIF -->
 <p align="left">
